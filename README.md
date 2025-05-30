@@ -43,20 +43,8 @@ To synthesize vowel sounds (“ea” and “oo”) by simulating the Source–Fi
 
 ## 🎧 Synthesized Audio Samples
 
-### 🧔 Synthesized Male Vowel
-<audio controls>
-  <source src="assets/audio/synthesized_vowel_male.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
----
-
-### 👩 Synthesized Female Vowel
-<audio controls>
-  <source src="assets/audio/synthesized_vowel_female.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
+- [🔊 Synthesized Male Vowel](assets/audio/synthesized_vowel_male.wav)
+- [🔊 Synthesized Female Vowel](assets/audio/synthesized_vowel_female.wav)
 
 ---
 
