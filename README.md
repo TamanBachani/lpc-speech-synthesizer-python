@@ -43,13 +43,18 @@ To synthesize vowel sounds (“ea” and “oo”) by simulating the Source–Fi
 
 ## 🎧 Synthesized Audio Samples
 
-> ✅ Hosted on SoundCloud for easy access
-
 ### 👨 Synthesized Male Vowel  
-[🔊 Listen on SoundCloud](https://soundcloud.com/taman-bachani-300237984/synthesized_vowel_male-1)
+[![SoundCloud - Synthesized Male](https://i1.sndcdn.com/artworks-000208171359-1z5dkm-t500x500.jpg)](https://soundcloud.com/taman-bachani-300237984/synthesized_vowel_male-1)
+
+👉 [Click to listen on SoundCloud](https://soundcloud.com/taman-bachani-300237984/synthesized_vowel_male-1)
+
+---
 
 ### 👩 Synthesized Female Vowel  
-[🔊 Listen on SoundCloud](https://soundcloud.com/taman-bachani-300237984/synthesized_vowel_female-2)
+[![SoundCloud - Synthesized Female](https://i1.sndcdn.com/artworks-000208171359-1z5dkm-t500x500.jpg)](https://soundcloud.com/taman-bachani-300237984/synthesized_vowel_female-2)
+
+👉 [Click to listen on SoundCloud](https://soundcloud.com/taman-bachani-300237984/synthesized_vowel_female-2)
+
 
 ---
 
