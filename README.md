@@ -48,27 +48,23 @@ To synthesize vowel sounds (“ea” and “oo”) by simulating the Source–Fi
 
 ---
 
-## 📸 Visuals
+## 📈 Visualizations
 
-### 🔹 LPC Spectrum Plot (Formant Peaks)
+### Formant Plot
 
-![LPC Spectrum](assets/formant_plot_amplitude_spectrum.png)
+![Formant Plot](assets/images/formant_plot_amplitude_spectrum.png)
 
----
+### Waveform Comparisons
 
-### 🔹 Female Waveform Comparison
+**Female Vowel:**
 
-| Original | Synthesized |
-|----------|-------------|
-| ![Original Female](assets/waveform_female_original.png) | ![Synth Female](assets/waveform_female_synth.png) |
+![Original Female Waveform](assets/images/waveform_female_original.png)
+![Synthesized Female Waveform](assets/images/waveform_female_synth.png)
 
----
+**Male Vowel:**
 
-### 🔹 Male Waveform Comparison
-
-| Original | Synthesized |
-|----------|-------------|
-| ![Original Male](assets/waveform_male_original.png) | ![Synth Male](assets/waveform_male_synth.png) |
+![Original Male Waveform](assets/images/waveform_male_original.png)
+![Synthesized Male Waveform](assets/images/waveform_male_synth.png)
 
 ---
 
