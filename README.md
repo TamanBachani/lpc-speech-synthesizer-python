@@ -48,23 +48,25 @@ To synthesize vowel sounds (“ea” and “oo”) by simulating the Source–Fi
 
 ---
 
-## 📈 Visualizations
+## 📈 Key Visuals
 
-### Formant Plot
+### 🧠 Source-Filter Model Overview
+![Source-Filter](assets/source_filter_diagram.png)
 
-![Formant Plot](assets/images/formant_plot_amplitude_spectrum.png)
+---
 
-### Waveform Comparisons
+### 🔊 Frequency Analysis of Vowels
 
-**Female Vowel:**
+**Male Segment:**
+![Male Spectrum](assets/amplitude_spectrum_male.png)
 
-![Original Female Waveform](assets/images/waveform_female_original.png)
-![Synthesized Female Waveform](assets/images/waveform_female_synth.png)
+**Female Segment:**
+![Female Spectrum](assets/amplitude_spectrum_female.png)
 
-**Male Vowel:**
+---
 
-![Original Male Waveform](assets/images/waveform_male_original.png)
-![Synthesized Male Waveform](assets/images/waveform_male_synth.png)
+### 🧪 Synthesized vs Original Amplitude Comparison
+![Amplitude Comparison](assets/amplitude_comparison_librosa.png)
 
 ---
 
